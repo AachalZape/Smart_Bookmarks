@@ -1,3 +1,4 @@
+
 # Smart Bookmark App
 
 A simple, secure, real-time bookmark management web application built with Next.js, Supabase, and Tailwind CSS.
@@ -120,3 +121,6 @@ The app uses Supabase Realtime subscriptions to automatically update the bookmar
 ## License
 
 MIT
+
+# Smart_Bookmarks
+
